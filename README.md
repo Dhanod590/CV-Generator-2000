@@ -1,0 +1,3 @@
+This is a bash Program that creates simple CV's for anyone who's looking for one...
+You have the rights to modify and share this program.
+Made by Fix Fusion Technology
